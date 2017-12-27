@@ -10,8 +10,12 @@ git 3
 git 4 
 git 5
 
+git 6
+git 7
 
 
 thank you
+
+done my changes
 
 final copy
